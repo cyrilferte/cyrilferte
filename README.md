@@ -3,7 +3,7 @@
 -->
 
 <samp>
-  <h3 align="center">Hi World 👋</h3>
+  <h3 align="center">👋 I'm Cy, FullStack developer - AI guided </h3>
   <div align="center">
     <br>
     <a href="https://www.linkedin.com/in/cferte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
