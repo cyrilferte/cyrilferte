@@ -39,5 +39,4 @@
   </details>
 </samp>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyrilferte&&show_icons=true&count_private=true&theme=dracula">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kori2000&theme=dracula"/>
 |---|---|
